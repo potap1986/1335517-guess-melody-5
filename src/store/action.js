@@ -1,7 +1,6 @@
 import {isArtistAnswerCorrect, isGenreAnswerCorrect} from "../game";
 import {GameType} from "../const";
 
-
 export const ActionType = {
   INCREMENT_MISTAKES: `INCREMENT_MISTAKES`,
   INCREMENT_STEP: `INCREMENT_STEP`,
